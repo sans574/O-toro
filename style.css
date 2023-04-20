@@ -1,0 +1,9 @@
+body{
+    font-family:fantasy;
+  text-align:center;
+  background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(255,0,0,1) 100%);
+  }
+  .img{
+    width:400px;
+    height:400;
+  }
